@@ -1,0 +1,25 @@
+h1 {
+	text-align: center;
+	color: red;
+	font-weight: 900;
+}
+h4 {
+	text-align: center;
+	color: red;
+	font-weight: 900;
+}
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: red;
+	font-weight: bold;
+}
+ body {
+ 	background-image: url('coolImage.jpg');
+ 	background-repeat: no-repeat;
+ 	background-size: 100% 100%;
+ 	background-blend-mode: lighten;
+ 	background-color: #FFFFFF80;
+ 	background-blend-mode: lighten;
+ }
